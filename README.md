@@ -1,19 +1,27 @@
-# 🚀 Ridoh Lawal | Java & Spring Boot Developer  
+# 🚀 Ridoh Lawal | Backend Engineer & Intelligent Systems Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ridoh-lawal-31b0a3156)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Ridoh7)
 
 ### 👋 Welcome to My GitHub!  
-I'm **Ridoh Lawal**, a **Java Developer** with expertise in **Spring Boot**, RESTful APIs, and **backend development**. Passionate about **building scalable, high-performance applications**, I love crafting **efficient and maintainable code** that solves real-world problems.  
+
+Hi, I’m **Ridoh Lawal** — a **Backend Software Engineer** with experience building enterprise applications, banking systems, and scalable backend services using **Java**, **Spring Boot**, REST APIs, and cloud technologies.  
+
+I’m passionate about designing reliable and maintainable systems that solve real-world business problems across fintech, enterprise platforms, and intelligent software environments.  
+
+Recently, I’ve also been expanding into **Applied AI** and **Intelligent Systems**, with growing interest in AI-powered applications, intelligent automation, and scalable backend infrastructure for modern software systems.  
 
 ---
 
 ## 💡 What I Do  
-- 🔹 **Backend Development** – Java, Spring Boot, Hibernate, JPA  
+
+- 🔹 **Backend Engineering** – Java, Spring Boot, Hibernate, JPA  
 - 🔹 **API Development** – RESTful APIs, Spring Security, JWT Authentication  
+- 🔹 **Enterprise Systems** – FinTech, Banking Systems, Workflow Automation  
 - 🔹 **Database Management** – MySQL, PostgreSQL, MongoDB  
-- 🔹 **Software Architecture** – Microservices, Monolithic Design  
+- 🔹 **Software Architecture** – Microservices, Monolithic Systems  
 - 🔹 **Cloud & DevOps** – Docker, Kubernetes, AWS (EC2, S3), CI/CD  
+- 🔹 **AI & Intelligent Systems** – LLM Evaluation, AI Workflow Testing, Intelligent Automation 
 
 ---
 
